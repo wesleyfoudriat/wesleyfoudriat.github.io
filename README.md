@@ -1,7 +1,3 @@
-# wesleyfoudriat.github.io
-AASA Hosting
-
-
 <!DOCTYPE html>
 <html>
     <head>
